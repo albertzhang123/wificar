@@ -1,0 +1,6 @@
+add feature1
+<<<<<<< HEAD
+from feature_1
+=======
+from feature_2
+>>>>>>> feature/F__feature_2
